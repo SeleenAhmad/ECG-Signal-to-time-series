@@ -12,4 +12,5 @@ This project extracts ECG-like signals from ECG images using Python, OpenCV, and
 
 ## How to Run
 1. Clone the repository:
-2.make sure to read the requirements 
+2.make sure to read the requirements and install the dependencies
+3.run the python script 
