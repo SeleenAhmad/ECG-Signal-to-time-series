@@ -1,0 +1,3 @@
+numoy
+scipy
+OpenCv
